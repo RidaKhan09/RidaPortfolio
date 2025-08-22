@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* index.css ya globals.css */
+body {
+    background-color: black;
+    color: white; /* text ko readable krny k liye */
+  }
+  
